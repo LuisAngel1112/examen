@@ -1,0 +1,4 @@
+gerente regional 2500
+gerente sucursal 1500 
+administrador  750
+trabajador  500
